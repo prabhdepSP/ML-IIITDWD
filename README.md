@@ -1,2 +1,2 @@
 # ML-IIITDWD
-tutorials of ml class
+tutorials of ml(cs307) class:w
